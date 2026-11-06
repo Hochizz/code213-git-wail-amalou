@@ -1,0 +1,4 @@
+1. Never commit hardcoded API keys, passwords, or credentials.
+2. Verify that sensitive files or local configs are ignored in .gitignore.
+3. Review changes with git diff before staging to prevent accidental code additions.
+4. Run automated static security scanning tools on source code prior to committing.
